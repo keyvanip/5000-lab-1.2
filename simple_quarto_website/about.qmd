@@ -1,0 +1,111 @@
+---
+title: "Parsa Keyvani"
+bibliography: reference.bib
+---
+
+# About Me
+
+I am a data enthusiast currently pursuing a Master's degree in Data Science and Analytics at Georgetown University. My academic journey has equipped me with the skills to tackle complex data challenges, conduct thorough analysis, and communicate insights effectively.
+
+## Education
+
+- **Master's Degree**
+  - [Georgetown University]
+  - Data Science and Analytics
+  - [2023] - [2025]
+
+- **Bachelor's Degree**
+  - [Union College]
+  - [Computer Science & Economics]
+  - [2019] - [2023]
+
+## Experience
+
+**Data Analyst Intern** | [Petter] | [2022] - [2023]
+
+- Conducted data cleaning and analysis on diverse datasets.
+- Created insightful data visualizations for stakeholders.
+- Collaborated with cross-functional teams on data-driven projects.
+
+**Teaching Assistant** | [Georgetown Univeristy] | [2023] - [Present]
+
+- Assisted students in understanding course materials.
+- Evaluated final presentations and assignments.
+- Facilitated discussions and provided guidance.
+
+## Hobbies
+
+- Exploring new places
+- Outdoor activities
+- Attending music festivals
+- Spending quality time with friends and family
+
+> "You must sleep at least 8 hours per day" - [Mathew Walker] [^1]
+
+## Images
+
+![Image 1](./images/djoko.JPG)
+
+![Image 2](./images/coco.jpg)
+
+## Videos
+
+{{< video https://www.youtube.com/watch?v=lGjvN4y5XFE&ab_channel=USOpenTennisChampionships >}}
+
+## Table of Contents
+
+- [About Me](#about-me)
+- [Education](#education)
+- [Experience](#experience)
+- [Hobbies](#hobbies)
+- [Images](#images)
+- [Videos](#videos)
+- [Table of Contents](#table-of-contents)
+- [Footnote](#footnote)
+- [Math Examples](#math-examples)
+- [Diagram](#diagram)
+- [Citation](#citation)
+- [References](#references)
+
+## Contact Information
+
+- **Email:** parsa.keyvani@gmail.com
+- **Phone:** (123) 456-7890
+
+# Assignment
+
+## Math Examples
+
+This is an inline-math LaTeX equation: $E=mc^2$
+
+This is a special method of integration (integration by parts):
+
+$$\int u dv = uv - \int v du$$
+
+
+## Table
+
+| US Open Champs | Proficiency  |
+|:-------|:-------------|
+| Coco      | Advanced     | 
+| Djokovic | Advanced     |
+
+
+
+## Diagram
+
+
+```{mermaid}
+%%| code-fold: false
+flowchart LR
+A[Start]
+    A --> B[Buy Tickets]
+    A --> C[Attend Matches]
+        C --> CA[Watch Singles Matches]
+        C --> CB[Watch Doubles Matches]
+    A --> D[Enjoy the Atmosphere]
+        D --> DA[Taste Gourmet Food]
+        D --> DB[Experience Live Music]
+    A --> E[Visit Merchandise Shop]
+    A --> F[Capture Memories]
+```

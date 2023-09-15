@@ -1,0 +1,128 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Parsa Keyvani",
+    "section": "",
+    "text": "I am a data enthusiast currently pursuing a Master’s degree in Data Science and Analytics at Georgetown University. My academic journey has equipped me with the skills to tackle complex data challenges, conduct thorough analysis, and communicate insights effectively.\n\n\n\nMaster’s Degree\n\n[Georgetown University]\nData Science and Analytics\n[2023] - [2025]\n\nBachelor’s Degree\n\n[Union College]\n[Computer Science & Economics]\n[2019] - [2023]\n\n\n\n\n\nData Analyst Intern | [Petter] | [2022] - [2023]\n\nConducted data cleaning and analysis on diverse datasets.\nCreated insightful data visualizations for stakeholders.\nCollaborated with cross-functional teams on data-driven projects.\n\nTeaching Assistant | [Georgetown Univeristy] | [2023] - [Present]\n\nAssisted students in understanding course materials.\nEvaluated final presentations and assignments.\nFacilitated discussions and provided guidance.\n\n\n\n\n\nExploring new places\nOutdoor activities\nAttending music festivals\nSpending quality time with friends and family\n\n\n“You must sleep at least 8 hours per day” - [Mathew Walker] [^1]\n\n\n\n\n\n\n\nImage 1\n\n\n\n\n\nImage 2\n\n\n\n\n\n\n\n\n\n\nAbout Me\nEducation\nExperience\nHobbies\nImages\nVideos\nTable of Contents\nFootnote\nMath Examples\nDiagram\nCitation\nReferences\n\n\n\n\n\nEmail: parsa.keyvani@gmail.com\nPhone: (123) 456-7890"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "Parsa Keyvani",
+    "section": "",
+    "text": "Master’s Degree\n\n[Georgetown University]\nData Science and Analytics\n[2023] - [2025]\n\nBachelor’s Degree\n\n[Union College]\n[Computer Science & Economics]\n[2019] - [2023]"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "Parsa Keyvani",
+    "section": "",
+    "text": "Data Analyst Intern | [Petter] | [2022] - [2023]\n\nConducted data cleaning and analysis on diverse datasets.\nCreated insightful data visualizations for stakeholders.\nCollaborated with cross-functional teams on data-driven projects.\n\nTeaching Assistant | [Georgetown Univeristy] | [2023] - [Present]\n\nAssisted students in understanding course materials.\nEvaluated final presentations and assignments.\nFacilitated discussions and provided guidance."
+  },
+  {
+    "objectID": "about.html#hobbies",
+    "href": "about.html#hobbies",
+    "title": "Parsa Keyvani",
+    "section": "",
+    "text": "Exploring new places\nOutdoor activities\nAttending music festivals\nSpending quality time with friends and family\n\n\n“You must sleep at least 8 hours per day” - [Mathew Walker] [^1]"
+  },
+  {
+    "objectID": "about.html#images",
+    "href": "about.html#images",
+    "title": "Parsa Keyvani",
+    "section": "",
+    "text": "Image 1\n\n\n\n\n\nImage 2"
+  },
+  {
+    "objectID": "about.html#table-of-contents",
+    "href": "about.html#table-of-contents",
+    "title": "Parsa Keyvani",
+    "section": "",
+    "text": "About Me\nEducation\nExperience\nHobbies\nImages\nVideos\nTable of Contents\nFootnote\nMath Examples\nDiagram\nCitation\nReferences"
+  },
+  {
+    "objectID": "about.html#contact-information",
+    "href": "about.html#contact-information",
+    "title": "Parsa Keyvani",
+    "section": "",
+    "text": "Email: parsa.keyvani@gmail.com\nPhone: (123) 456-7890"
+  },
+  {
+    "objectID": "about.html#math-examples",
+    "href": "about.html#math-examples",
+    "title": "Parsa Keyvani",
+    "section": "Math Examples",
+    "text": "Math Examples\nThis is an inline-math LaTeX equation: \\(E=mc^2\\)\nThis is a special method of integration (integration by parts):\n\\[\\int u dv = uv - \\int v du\\]"
+  },
+  {
+    "objectID": "about.html#table",
+    "href": "about.html#table",
+    "title": "Parsa Keyvani",
+    "section": "Table",
+    "text": "Table\n\n\n\nUS Open Champs\nProficiency\n\n\n\n\nCoco\nAdvanced\n\n\nDjokovic\nAdvanced"
+  },
+  {
+    "objectID": "about.html#diagram",
+    "href": "about.html#diagram",
+    "title": "Parsa Keyvani",
+    "section": "Diagram",
+    "text": "Diagram\n\n\n\n\nflowchart LR\nA[Start]\n    A --&gt; B[Buy Tickets]\n    A --&gt; C[Attend Matches]\n        C --&gt; CA[Watch Singles Matches]\n        C --&gt; CB[Watch Doubles Matches]\n    A --&gt; D[Enjoy the Atmosphere]\n        D --&gt; DA[Taste Gourmet Food]\n        D --&gt; DB[Experience Live Music]\n    A --&gt; E[Visit Merchandise Shop]\n    A --&gt; F[Capture Memories]"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "slides/slides.html",
+    "href": "slides/slides.html",
+    "title": "My Presentation",
+    "section": "",
+    "text": "I am a data enthusiast currently pursuing a Master’s degree in Data Science and Analytics at Georgetown University."
+  },
+  {
+    "objectID": "slides/slides.html#slide-1",
+    "href": "slides/slides.html#slide-1",
+    "title": "My Presentation",
+    "section": "",
+    "text": "I am a data enthusiast currently pursuing a Master’s degree in Data Science and Analytics at Georgetown University."
+  },
+  {
+    "objectID": "slides/slides.html#slide-2",
+    "href": "slides/slides.html#slide-2",
+    "title": "My Presentation",
+    "section": "Slide 2",
+    "text": "Slide 2\nMy academic journey has equipped me with the skills to tackle complex data challenges, conduct thorough analysis, and communicate insights effectively."
+  },
+  {
+    "objectID": "slides/slides.html#slide-3",
+    "href": "slides/slides.html#slide-3",
+    "title": "My Presentation",
+    "section": "Slide 3",
+    "text": "Slide 3\nExploring new places"
+  },
+  {
+    "objectID": "slides/slides.html#slide-4-references",
+    "href": "slides/slides.html#slide-4-references",
+    "title": "My Presentation",
+    "section": "Slide 4: References",
+    "text": "Slide 4: References\n\nParsa, Keyvani. (2020). My Research Paper. Journal of Research, 10(2), 123-145. [1]"
+  },
+  {
+    "objectID": "slides/slides.html#slide-5-example-image-1",
+    "href": "slides/slides.html#slide-5-example-image-1",
+    "title": "My Presentation",
+    "section": "Slide 5: Example Image 1",
+    "text": "Slide 5: Example Image 1\n\n\n\nImage 1"
+  },
+  {
+    "objectID": "slides/slides.html#slide-6-example-image-2",
+    "href": "slides/slides.html#slide-6-example-image-2",
+    "title": "My Presentation",
+    "section": "Slide 6: Example Image 2",
+    "text": "Slide 6: Example Image 2\n\n\n\nImage 2\n\n\n\n%%| code-fold: true\nimport matplotlib.pyplot as plt\nimport numpy as np\n\nx = np.linspace(0, 10, 100)\ny = np.sin(x)\n\nplt.figure(figsize=(6, 4))\nplt.plot(x, y)\nplt.xlabel('x')\nplt.ylabel('y')\nplt.title('Sine Wave')\nplt.grid(True)\nplt.show()\n\nUsageError: Cell magic `%%|` not found."
+  }
+]
